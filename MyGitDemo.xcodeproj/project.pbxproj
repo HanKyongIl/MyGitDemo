@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		331DA94D200BEB4D00ACDED3 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331DA94C200BEB4D00ACDED3 /* TestClass.swift */; };
 		33DE91FF200ADBD50023D64D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DE91FE200ADBD50023D64D /* AppDelegate.swift */; };
 		33DE9201200ADBD50023D64D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DE9200200ADBD50023D64D /* ViewController.swift */; };
 		33DE9204200ADBD50023D64D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33DE9202200ADBD50023D64D /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		331DA94C200BEB4D00ACDED3 /* TestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
 		33DE91FB200ADBD50023D64D /* MyGitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33DE91FE200ADBD50023D64D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33DE9200200ADBD50023D64D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				33DE91FE200ADBD50023D64D /* AppDelegate.swift */,
 				33DE9200200ADBD50023D64D /* ViewController.swift */,
+				331DA94C200BEB4D00ACDED3 /* TestClass.swift */,
 				33DE9202200ADBD50023D64D /* Main.storyboard */,
 				33DE9205200ADBD50023D64D /* Assets.xcassets */,
 				33DE9207200ADBD50023D64D /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33DE9201200ADBD50023D64D /* ViewController.swift in Sources */,
+				331DA94D200BEB4D00ACDED3 /* TestClass.swift in Sources */,
 				33DE91FF200ADBD50023D64D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
