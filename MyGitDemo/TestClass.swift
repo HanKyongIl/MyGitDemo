@@ -10,4 +10,7 @@ import UIKit
 
 class TestClass: NSObject {
     var value:Int?
+    func sayHello()  {
+        print("Hello")
+    }
 }
